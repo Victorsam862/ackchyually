@@ -32,13 +32,23 @@ ul li a{
     text-decoration: none;
     padding:20px 40px;
     width: 100px!important;
-    box-shadow: 4px 4px 5px 1px grey; 
+    box-shadow: 4px 4px 5px 1px rgb(27, 25, 25); 
  
 }
 
 button a{
     color: black;
     
+}
+.cto{
+    position: absolute;
+    margin-top: 50px;
+    font-size: 100px;
+    border: 10px solid rgb(153, 217, 234);
+    border-radius: 50%;
+    color: red;
+    background-color: black;
+    box-shadow: 5px 10px 20px 5px black;
 }
 button{
     border-radius: 20px;
