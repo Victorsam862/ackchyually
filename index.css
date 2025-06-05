@@ -32,7 +32,7 @@ ul li a{
     text-decoration: none;
     padding:20px 40px;
     width: 100px!important;
-    box-shadow: 4px 4px 5px 1px rgb(27, 25, 25); 
+    box-shadow: 4px 4px 5px 3px rgb(27, 25, 25); 
  
 }
 
@@ -46,9 +46,9 @@ button a{
     font-size: 100px;
     border: 10px solid rgb(153, 217, 234);
     border-radius: 50%;
-    color: red;
+    color: green;
     background-color: black;
-    box-shadow: 5px 10px 20px 5px black;
+    box-shadow: 5px 10px 20px 10px black;
 }
 button{
     border-radius: 20px;
