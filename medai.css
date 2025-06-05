@@ -1,0 +1,81 @@
+@media screen and (max-width: 1400px){
+    ul li a{
+        padding: 10px!important;
+    }
+    .image{
+        width: 100%;
+    }
+    .con{
+        display: block!important;
+        margin-top: -50px;
+    }
+    .contents{
+        padding-top: 60px;
+    }
+    .vitalik{
+       
+        width: 95%!important;
+    }
+    .send{
+        display: block!important;
+    }
+    .ack{
+        width: 95%!important;
+    }
+    .vidd, .pic{
+        width: 100%!important;
+    }
+}
+@media (max-width: 850px){
+    ul li a{
+        padding: 10px!important;
+        font-size: 15px;
+    }
+    .content{
+        padding-bottom: 50px;
+    }
+    ul{
+        gap: 10px;
+        margin-left: -60px;
+        margin-right: -10px!important;
+        
+    }
+    .images{
+        margin-top: -25px;
+        border-top: 10px solid;
+        border-bottom: 10px solid;
+    }
+    .img{
+        margin: 0px!important;
+    }
+}
+@media (max-width: 620px){
+    ul li a{
+        padding: 10px!important;
+        font-size: 10px;
+    }
+    
+    button{
+        border-radius: 10px;
+        width: 60px;
+    }
+    .img{
+        width: 70px!important;
+        height: 70px!important;
+    }
+}
+@media (max-width: 450px){
+    .img{
+        width: 50px!important;
+        height: 50px!important;
+    }
+    ul li a{
+        padding: 5px!important;
+        font-size: 10px;
+    }
+    button{
+        border-radius: 10px;
+        width: 40px;
+        font-size: 20px;
+    }
+}
